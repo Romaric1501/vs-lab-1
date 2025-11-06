@@ -1,5 +1,2 @@
-hello world! 
-hello everyone!
-hello world!
-hellooo!
-hi!
+hello world! hellooo! hi!
+hello world! hello everyone!
